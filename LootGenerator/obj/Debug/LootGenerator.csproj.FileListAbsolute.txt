@@ -1,0 +1,8 @@
+C:\Users\HSanchez\Desktop\Oop\LootGenerator\LootGenerator\bin\Debug\LootGenerator.exe.config
+C:\Users\HSanchez\Desktop\Oop\LootGenerator\LootGenerator\bin\Debug\LootGenerator.exe
+C:\Users\HSanchez\Desktop\Oop\LootGenerator\LootGenerator\bin\Debug\LootGenerator.pdb
+C:\Users\HSanchez\Desktop\Oop\LootGenerator\LootGenerator\bin\Debug\SanchezH_CIO.dll
+C:\Users\HSanchez\Desktop\Oop\LootGenerator\LootGenerator\bin\Debug\SanchezH_CIO.pdb
+C:\Users\HSanchez\Desktop\Oop\LootGenerator\LootGenerator\obj\Debug\LootGenerator.csprojResolveAssemblyReference.cache
+C:\Users\HSanchez\Desktop\Oop\LootGenerator\LootGenerator\obj\Debug\LootGenerator.exe
+C:\Users\HSanchez\Desktop\Oop\LootGenerator\LootGenerator\obj\Debug\LootGenerator.pdb
